@@ -1,24 +1,16 @@
+Use as an extension
+This repository can be added as an extension in MakeCode.
 
-> Diese Seite bei [https://thegeniusprogrammer.github.io/calliope-temperatursensor/](https://thegeniusprogrammer.github.io/calliope-temperatursensor/) öffnen
+Open https://makecode.calliope.cc/
+Click New Project
+Click Extensions under the gear menu
+Search for https://github.com/thegeniusprogrammer/calliope-temperature-sensor and import it
+Edit this project
+To edit this repository in MakeCode.
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/thegeniusprogrammer/calliope-temperatursensor** suchen und importieren
-
-## Dieses Projekt bearbeiten
-
-Um dieses Repository in MakeCode zu bearbeiten.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Importieren** und dann auf **Importiere URL**
-* füge **https://github.com/thegeniusprogrammer/calliope-temperatursensor** ein und klicke auf Importieren
-
-#### Metadaten (verwendet für Suche, Rendering)
-
-* for PXT/calliopemini
+Open https://makecode.calliope.cc/
+Click Import and then Import URL
+Paste https://github.com/thegeniusprogrammer/calliope-temperatursensor and click Import
+Metadata (used for search, rendering)
+for PXT/calliopemini
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
